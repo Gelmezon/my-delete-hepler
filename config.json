@@ -1,0 +1,12 @@
+[
+    {
+        "path":"/example/logs",
+        "regex":"example\\.log\\.\\d+",
+        "day":30
+    },
+    {
+        "path":"/example/logs",
+        "regex":"example\\.log\\.\\d+",
+        "day":30
+    }
+]
